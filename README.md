@@ -1,1 +1,1 @@
-# Image-Segmentation-THrough-Deeplab-3-
+# Image-Segmentation-Through-Deeplab-3-
